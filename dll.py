@@ -1,5 +1,3 @@
-def __init__(self):
-	pass
 class DoubleLinkedList(object):
     class Item(object):
         def __init__(self, prev, elem, next):
